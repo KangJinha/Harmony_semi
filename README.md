@@ -1,5 +1,5 @@
-    <div align= "center">
-        
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffd877&height=180&text=이%20음%20줄&animation=&fontColor=000000&fontSize=40" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 음악 매칭 </h2>  
